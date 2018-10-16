@@ -47,6 +47,7 @@ class TreeView(object):
 
     def file_display(self,args,tag_file_path='',file_name=''):
         try:
+<<<<<<< HEAD
             # if os.path.isfile(tag_file_path):
                 # self._write(args,file_name,tag_file_path)
             self._write(args,file_name,tag_file_path)
@@ -60,7 +61,6 @@ class TreeView(object):
             for line in args:
                 f.write(line)
                 f.write('\n')
-
 
 
 if __name__ == '__main__':

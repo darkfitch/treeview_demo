@@ -1,0 +1,5 @@
+
+
+class BaseExecption(object):
+    pass
+    
