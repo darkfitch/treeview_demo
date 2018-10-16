@@ -44,7 +44,7 @@ class TreeView(object):
     def file_display(self,args,tag_file_path='',file_name=''):
         try:
             if os.path.isfile(tag_file_path):
-            pass
+                pass
         except:
             pass
 
