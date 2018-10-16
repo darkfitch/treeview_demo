@@ -49,7 +49,8 @@ class TreeView(object):
             pass
 
     def _write(self,name,path):
-        with open
+        # with open
+        pass
 
 if __name__ == '__main__':
     path = 'E:\_projects\document\\1~25-ly'
